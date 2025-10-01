@@ -1,0 +1,3 @@
+- [x] Alterar player/player.lua: mudar nome para "Adrielo" e descrição
+- [x] Alterar dragao/dragao.lua: mudar nome para "Dragão" e descrição
+- [x] Alterar main.lua: trocar requires de colossus para dragao
